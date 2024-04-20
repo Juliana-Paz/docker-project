@@ -1,7 +1,6 @@
 # docker-project
 
-Este projeto é uma aplicação CRUD simples com apenas um atributo. Ele separa a aplicação, servidor e banco de dados em três containers diferentes e utiliza um volume para o banco de dados.
-
+This project is a simple CRUD application with just one attribute. It separates the application, server and database into three different containers and uses one volume for the database.
 
 ## Tecnologias 
 PHP, Apache Server, Mysql, Docker.
